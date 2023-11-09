@@ -10,7 +10,7 @@ I'm a post-graduate Journalist & Marketing professional aiming to specialize in 
 Passionate about technology, science fiction and football ⚽
 
 - 🔭 I’m currently working on various projects in which I can learn new things.
-- 📖 I'm a part of the #VemSerTech program, a initiative between Ifood and AdaTech here in Brazil.
+- 📖 I'm a part of the #VemSerTech program, an initiative between Ifood and AdaTech here in Brazil.
 - 🌱 I’m currently learning Typescript, React, TailwindCSS and NodeJS!
 - 👯 I’m looking to collaborate on open-source projects where I feel my skills would be useful and also freelance jobs.
 
