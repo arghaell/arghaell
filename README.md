@@ -10,13 +10,11 @@ I'm a post-graduate Journalist & Marketing professional aiming to specialize in 
 Passionate about technology, science fiction and football ⚽
 
 - 🔭 I’m currently working on various projects in which I can learn new things.
-- 📖 I'm a student on the #VemSerTech program, an initiative between Ifood and AdaTech here in Brazil.
 - 🌱 I’m currently learning Next.js, React, Typescript, Tailwind CSS and Node.js!
 - 👯 I’m looking to collaborate on open-source projects where I feel my skills would be useful and also freelance jobs.
 
 - ⚡ Fun fact: I love coffee, team sports and e-sports. 
 
-(my "e-passion" for the last few years is a game called Rocket League, where me and some friends created a community of players from all over Brazil who play at a competitive level — top 1% global 💪)
 
 
 
